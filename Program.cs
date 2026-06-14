@@ -2,6 +2,7 @@
 {
     static void Main()
     {
-        PromedioAlumno();
+        // PromedioAlumno();
+        CajeroAutomatico();
     }
 }
