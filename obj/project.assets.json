@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tomas/Documents/Programacion_1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/tomas/Documents/Programacion_1/Actividades_12_06/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/tomas/Documents/Programacion_1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/Users/tomas/Documents/Programacion_1/Actividades_12_06/ConsoleApp1.csproj",
       "packagesPath": "/Users/tomas/.nuget/packages/",
-      "outputPath": "/Users/tomas/Documents/Programacion_1/ConsoleApp1/obj/",
+      "outputPath": "/Users/tomas/Documents/Programacion_1/Actividades_12_06/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tomas/.nuget/NuGet/NuGet.Config"
