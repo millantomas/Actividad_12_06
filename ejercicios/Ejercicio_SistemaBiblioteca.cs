@@ -59,13 +59,13 @@ partial class Program
         string autor = Console.ReadLine();
 
 
-        //validacion para evitar que tanto el autor como el libro esten vacios o sean nulos
         if (!string.IsNullOrWhiteSpace(titulo) && !string.IsNullOrWhiteSpace(autor))
         {
             listaTitulos.Add(titulo);
             listaAutores.Add(autor);
             Console.WriteLine("\n¡Libro registrado con éxito en el inventario!");
         }
+        //validacion para evitar que tanto el autor como el libro esten vacios o sean nulos
         else
         {
             Console.WriteLine("\nError: El título y el autor no pueden estar vacíos.");
