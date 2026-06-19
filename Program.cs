@@ -3,6 +3,7 @@
     static void Main()
     {
         // PromedioAlumno();
-        CajeroAutomatico();
+        // CajeroAutomatico();
+        SistemaNotas();
     }
 }
